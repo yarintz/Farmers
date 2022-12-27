@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902444966410",
+    "project_id": "farmerapp-5de60",
+    "storage_bucket": "farmerapp-5de60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902444966410:android:87727483f3d546454d35f3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902444966410-083cjs21pmik36klt0mksocs1ds2d92a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQl-OXqjCz1vUUMYsykTklXsKWLLbLQjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902444966410-083cjs21pmik36klt0mksocs1ds2d92a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

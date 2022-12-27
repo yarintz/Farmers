@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuitem_logout"
+        android:icon="@drawable/exit_icon"
+        android:title="@string/homeScreen"
+        android:visible="true"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/design_menu_item_text_farmer_app"
+        android:title="@string/farmerApp"
+        android:visible="true"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menuitem_home_screen"
+        android:title="@string/homeScreen"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menuitem_contactAgronomist"
+        android:title="@string/contactAgronomist"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menuitem_readyToSupply"
+        android:title="@string/readyToSupply"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menuitem_seedInventory"
+        android:title="@string/seedInventory"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menuitem_suppliersRelations"
+        android:title="@string/suppliersRelations"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menuitem_crops_information"
+        android:title="@string/cropsInformation"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/menuitem_farmer_messsages"
+        android:title="@string/messagesScreen"
+        app:showAsAction="never"></item>
+</menu>

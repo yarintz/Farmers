@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+
+        <TextView
+            android:id="@+id/cropNameCropsInformationAdapterTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"/>
+
+        <View android:layout_width="2dp"
+            android:background="@android:color/black"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/cropDateCropsInformationAdapterTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"/>
+
+        <View android:layout_width="2dp"
+            android:background="@android:color/black"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/cropSeasonCropsInformationAdapterTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal" />
+
+        <View android:layout_width="2dp"
+            android:background="@android:color/black"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/removeCropInformation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="@string/remove" />
+
+    </TableRow>
+
+</TableLayout>

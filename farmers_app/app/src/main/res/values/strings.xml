@@ -1,0 +1,177 @@
+<resources>
+    <string name="appName">Ex1_205790488_315680397</string>
+    <string name="titleActivitySignUp">SignUpActivity</string>
+    <string name="promptEmail">Email</string>
+    <string name="promptPassword">Password</string>
+    <string name="actionSignIn">Sign in or register</string>
+    <string name="actionSignInShort">Sign in</string>
+    <string name="welcome">Welcome !</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalidMail">Please enter a vaild E-Mail</string>
+    <string name="invalidPassword">Password must be > 5 characters.</string>
+    <string name="passwordDoesntMatch">Passwords does not match!.</string>
+    <string name="pleaseEnterName">Please enter a name!.</string>
+    <string name="pleaseEnterValidPhone">Please enter a valid phone number!.</string>
+    <string name="selectUserType">Please Select a user type!"</string>
+    <string name="loginFailed">"Login failed"</string>
+    <string name="noSuchUserMail">No such user mail or password incorrect</string>
+    <string name="creatAgronomist">Created agronomist successfully!</string>
+    <string name="createFarmer">Created farmer successfully!</string>
+    <string name="createSupplier">Created supplier successfully!</string>
+    <string name="check">Check Check 1 2 1 2</string>
+    <string name="send">send</string>
+    <string name="cancel">cancel</string>
+    <string name="alertDialogTwoButtonsTitle">Are you sure?</string>
+    <string name="messageDeleted">message deleted</string>
+    <string name="setName">set name</string>
+    <string name="setDate">set date</string>
+    <string name="harvest">harvest</string>
+    <string name="plant">plant</string>
+    <string name="empty">EMPTY</string>
+    <string name="emptyString"></string>
+    <string name="cantSetNameOnEmptyPlot">You cant set name for an empty plot.\nPlease use plant button instead.</string>
+    <string name="pleaseProvideCropName">Cant plant crop with no name.\nPlease provide crop name.</string>
+    <string name="cantPlantOnExistingCrop">Cant plant here! crop already exists.\nPlease choose empty plot to plant in.</string>
+    <string name="cantHarvestEmptyPlot">Cant harvest empty plot!</string>
+    <string name="cantChangeDateOnEmptyPlot">Cant Change date for empty plot!</string>
+    <string name="addNewAgronomist">Add new agronomist</string>
+    <string name="message">Message:</string>
+    <string name="sent_to">sent to:</string>
+    <string name="noSuchAgronomist">Please provide an availabe mail.\nNo such agronomist exists.</string>
+    <string name="agronomistAddedToContactList">New agronomist added to your contact list.</string>
+    <string name="to">To:</string>
+    <string name="agronomistMail">Agronomist mail:</string>
+    <string name="attachPhoto">Attach photo</string>
+    <string name="pleaseEnterYourMessage">Please enter your message</string>
+    <string name="pleaseEnterATextMessage">Please attach text to your message!</string>
+    <string name="setAmount">Set amount</string>
+    <string name="onlyNumbersAllowd">Please enter numbers only!</string>
+    <string name="changedSuccessfully">Amount changed successfully!</string>
+    <string name="seedInventory">Seed inventory</string>
+    <string name="readyToSupply">Ready to supply</string>
+    <string name="suppliersRelations">Suppliers Prices</string>
+    <string name="supplierScreen">Welcome Supplier</string>
+    <string name="removeFromList">has been removed from the list</string>
+    <string name="welcomeDearAgronomist">Welcome dear agronomist</string>
+    <string name="contactAgronomist">Contact agronomist</string>
+    <string name="inventory">Inventory</string>
+    <string name="setSize">Set size</string>
+    <string name="welcomeDearFarmer">Welcome dear Farmer</string>
+    <string name="editPlot">Edit plot</string>
+    <string name="approve">approve</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="editAmount">Edit amount:</string>
+    <string name="save">Save</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="logIn">Log-in</string>
+    <string name="signUp">Create a new account</string>
+    <string name="passwordVerification">password Verification</string>
+    <string name="surname">Surname</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="signUpScreen">Sign Up</string>
+    <string name="farmer">Farmer</string>
+    <string name="agronomist">Agronomist</string>
+    <string name="supplier">Supplier</string>
+    <string name="whichUserAreYou">Which user are you?</string>
+    <string name="remove">Remove</string>
+    <string name="addNew">Add new</string>
+    <string name="editYourList">Edit your list</string>
+    <string name="supplierName">Supplier name</string>
+    <string name="item">Item</string>
+    <string name="pricePerKG">Price per 1 kg</string>
+    <string name="content">content</string>
+    <string name="delete">Delete</string>
+    <string name="answer">answer</string>
+    <string name="edit">Edit</string>
+    <string name="farmerApp">Farmer app</string>
+    <string name="forMoreOptions">For more options -></string>
+    <string name="setFarmSize">Set farm size</string>
+    <string name="pleaseEnterRowsAndCols">Please enter number of rows and columns for your farm</string>
+    <string name="homeScreen">Home screen</string>
+    <string name="columns">Please enter columns</string>
+    <string name="row">Please enter rows</string>
+    <string name="updateAmount"> Update Amount</string>
+    <string name="areYouSureSetAmount">Are you sure you want to set</string>
+    <string name="asTheNewAmount"> as the new amount of</string>
+    <string name="questionMark">\?</string>
+    <string name="asTheNewPrice"> as the new price of</string>
+    <string name="areYouSureRemove">Are you sure you want to remove</string>
+    <string name="areYouSureHarvest">Are you sure you want to harvest</string>
+    <string name="setname">Set new name</string>
+    <string name="areYouSureSetName">Are you sure you want to set the name of</string>
+    <string name="smallTo">to</string>
+    <string name="logOut">log out</string>
+    <string name="areYouSureYouWantToLogOut">Are you sure you want to log out?</string>
+    <string name="cropsInformation">Crops information</string>
+    <string name="timeToPlant">Time</string>
+    <string name="seasonToPlant">Season</string>
+    <string name="onlySeasonsAllowd">Season field can only accept: Fall, Winter, Summer or Spring!</string>
+    <string name="addedNewCropSuccesfully">Added new crop successfully</string>
+    <string name="fillAllFields">Please add information in all requested fields!</string>
+    <string name="timeNumbersOnly">Time field can only get number of months!</string>
+    <string name="headerCropsName">Crop name</string>
+    <string name="headerMonth">Months planted\ntill harvest</string>
+    <string name="headerSeason">Recomended\nseason\nto plant</string>
+    <string name="farmerHomeScreenHeader">Home screen</string>
+    <string name="farmerContactAgronomistScreenHeader">Contact agronomist screen</string>
+    <string name="farmerSeedInventoryScreenHeader">Seed inventory screen</string>
+    <string name="farmerWareInventoryScreenHeader">Ready to supply screen</string>
+    <string name="farmerSuppliersPricesScreenHeader">Supplier prices screen</string>
+    <string name="farmerCropInfomationScreenHeader">Crop information screen</string>
+    <string name="newCropNameHint">Enter new name here: </string>
+    <string name="kg">\ KG</string>
+    <string name="amountCantBeEmpty">Amount field cant be empty!</string>
+    <string name="messagesScreen">Messages</string>
+    <string name="messagesScreenMenu">Messages screen</string>
+    <string name="dollar">\$</string>
+    <string name="ramiLevi">Rami levi</string>
+    <string name="ramiLeviPhone">0523769196</string>
+    <string name="cantPlantThatMuch">You can\'t plant more seeds than you\'ve got!</string>
+    <string name="notice">Notice! this action will delete everything in your farm!</string>
+    <string name="permissionDenied">Permission denied!</string>
+    <string name="cantOpenCamera">You can\'t send a photo until you give the app permission to access your camera!\nPlease give permission via settings->apps->permission </string>
+    <string name="failedCreatingAnewUser">Failed in creating a new user!</string>
+    <string name="mailHint"><font size="12">somthing@somthing.com/org..</font></string>
+    <string name="passwordHint"><font size="12">Enter at least 6 numeric/characters</font></string>
+    <string name="passwordVerificationHint"><font size="12">Must be the same as password</font></string>
+    <string name="nameHint"><font size="12">Must not be empty</font></string>
+    <string name="phoneHint"><font size="12">At least 9 digits, digits only</font></string>
+    <string name="hello">Hello</string>
+    <string name="welcomeNewUser">welcome to Farmer App</string>
+    <string name="emailExists">Email already exists in the system!</string>
+    <string name="authenticationFailed">Authentication failed</string>
+    <string name="pleaseEnterPassword">Please enter password!</string>
+    <string name="pleaseEnterMail">Please enter mail!</string>
+    <string name="pleaseEnterMailAndpassword">Please enter mail and password!</string>
+    <string name="exit">Exit?</string>
+    <string name="areYouSureYouWantToExit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pleaseAddSeedsToYourSeedsInventory">Please add seeds to your seeds inventory</string>
+    <string name="failedUpdatingDocument">Failed updating firebase document</string>
+    <string name="failedDeletingDocument">Failed deleting firebase document</string>
+    <string name="itemExist">Item is already exist</string>
+    <string name="failedCreatingNewMessage">Failed in creating a new message</string>
+    <string name="startTyping">Double click or start typing..</string>
+    <string name="noInternet">You cant make this action beacuse there is not internet connection</string>
+    <string name="noInternetMessage">You cant send messages beacuse there is not internet connection</string>
+
+    <string-array name="agronomistList">
+        <item>Dani</item>
+        <item>Haim</item>
+        <item>Mr.Agronomist</item>
+        <item>Mrs.Agronomist</item>
+    </string-array>
+
+    <string-array name="columnNumbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+</resources>
